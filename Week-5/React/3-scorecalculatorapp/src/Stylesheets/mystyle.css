@@ -1,0 +1,10 @@
+body{
+    font-family: Arial;
+}
+
+.box{
+    border:1px solid black;
+    width:300px;
+    padding:20px;
+    margin:20px;
+}
