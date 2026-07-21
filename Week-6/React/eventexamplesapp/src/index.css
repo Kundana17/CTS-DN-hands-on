@@ -1,0 +1,17 @@
+.container {
+  margin: 30px;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  margin-top: 5px;
+}
+
+h1 {
+  color: green;
+}
+
+input {
+  margin-left: 10px;
+  padding: 5px;
+}
